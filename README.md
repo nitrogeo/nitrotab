@@ -17,10 +17,10 @@ this project is both 1) a good way for me to learn webdev and 2) a tool that can
 - tons of freedom regarding customization
 
 
-## features
-
 ## installation
 coming soon to the Mozilla Web Store. the chromium version will most likely have to be sideloaded.
+
+---
 
 ## React + Vite \[boilerplate text]
 
