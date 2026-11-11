@@ -7,7 +7,7 @@ this project is both 1) a good way for me to learn webdev and 2) a tool that can
 ## features 
 (part 1)
 - add all your favorite websites for quick access
-- a beutiful built-in theme that allows for some customization.
+- a beautiful built-in theme that allows for some customization
 
 (part 2)
 - sync your data via a cloud service of your choice
